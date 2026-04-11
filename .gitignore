@@ -13,3 +13,5 @@ qodana.yaml
 
 app/src/main/resources/application-dev.yml
 /docs
+submit.ps1
+.vscode
